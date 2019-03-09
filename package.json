@@ -1,0 +1,17 @@
+{
+  "name": "bem-dom-library",
+  "version": "1.0.0",
+  "description": "Modern and light DOM manipulation library.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "DOM",
+    "BEM",
+    "CSS"
+  ],
+  "author": "Paweł Piech",
+  "license": "ISC"
+}
